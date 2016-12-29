@@ -1,0 +1,24 @@
+{
+  "name": "medarbejdere",
+  "description": "Medarbejder modul",
+  "main": "",
+  "authors": [
+    "Mike Jakobsen"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "darktooltip": "^0.4.0",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery-ui": "^1.12.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "medarbejdere",
+  "version": "0.0.1",
+  "description": "Medarbejder modul",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Jakobsen",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-autoprefixer": "*",
+    "gulp-babel": "*",
+    "gulp-cache": "*",
+    "gulp-concat": "*",
+    "gulp-jshint": "*",
+    "gulp-imagemin": "*",
+    "gulp-minify-css": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "gulp": "*"
+  }
+}
